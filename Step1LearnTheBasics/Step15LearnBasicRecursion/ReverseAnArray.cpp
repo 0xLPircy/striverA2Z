@@ -18,3 +18,4 @@ vector<int> reverseArray(int n, vector<int> &nums)
     // printf("\n");
     return nums;
 }
+// NOT RCURSIVE

@@ -5,7 +5,6 @@ long long rec(long long n){
     return n + rec(n-1);
 }
 
-
 long long sumFirstN(long long n) {
     // Write your code here.
     n = rec(n);
